@@ -75,6 +75,6 @@ import Unsafe.Coerce as Exports
 -------------------------
 import Data.Serialize as Exports
 
--- uuid
+-- data-dword
 -------------------------
 import Data.DoubleWord as Exports
