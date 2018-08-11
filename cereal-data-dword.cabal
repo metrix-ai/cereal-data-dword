@@ -1,7 +1,7 @@
 name:
   cereal-data-dword
 version:
-  0.1
+  0.1.1
 synopsis:
   Integration of "cereal" and "data-dword"
 homepage:
